@@ -21,7 +21,7 @@ If you want receive an email whenever you move a file or have an error, you must
 
 You just have to launch the following command.
 
-````
+```
 python tvorganizer/tvorganizer.py
 ```
 
